@@ -1,2 +1,3 @@
 Kasir adalah seseorang yang mengurusi dan menyimpan hasil pembayaran terutama uang, dan memasukkannya dalam mesin kasir. Kasir dapat ditemukan di berbagai tempat-tempat yang memiliki titik penjualan seperti di dalam toko.
 Kasir adalah seseorang yang mengurusi dan menyimpan hasil pembayaran terutama uang, dan memasukkannya dalam mesin kasir. Kasir dapat ditemukan di berbagai tempat-tempat yang memiliki titik penjualan seperti di dalam toko.
+Kasir adalah seseorang yang mengurusi dan menyimpan hasil pembayaran terutama uang, dan memasukkannya dalam mesin kasir. Kasir dapat ditemukan di berbagai tempat-tempat yang memiliki titik penjualan seperti di dalam toko.
